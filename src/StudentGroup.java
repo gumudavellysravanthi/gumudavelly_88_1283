@@ -7,6 +7,7 @@ import java.util.function.Predicate;
 import java.util.stream.Collectors;
 
 public class StudentGroup implements GroupOperationService {
+	
 
 	private Student[] students;
 	
